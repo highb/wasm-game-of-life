@@ -1,7 +1,7 @@
 {
-  "name": "create-wasm-app",
+  "name": "wasm-game-of-life",
   "version": "0.1.0",
-  "description": "create an app to consume rust-generated wasm packages",
+  "description": "wasm game of life",
   "main": "index.js",
   "bin": {
     "create-wasm-app": ".bin/create-wasm-app.js"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rustwasm/create-wasm-app.git"
+    "url": "git+https://github.com/highb/wasm-game-of-life.git"
   },
   "keywords": [
     "webassembly",
@@ -20,12 +20,12 @@
     "rust",
     "webpack"
   ],
-  "author": "Ashley Williams <ashley666ashley@gmail.com>",
-  "license": "(MIT OR Apache-2.0)",
+  "author": "Brandon High",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/rustwasm/create-wasm-app/issues"
+    "url": "https://github.com/highb/wasm-game-of-life/issues"
   },
-  "homepage": "https://github.com/rustwasm/create-wasm-app#readme",
+  "homepage": "https://github.com/highb/wasm-game-of-life#Readme.md",
   "dependencies": {                     
     "wasm-game-of-life": "file:../pkg"
   },
