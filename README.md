@@ -7,8 +7,7 @@
 
 ## About
 
-This template is designed for compiling Rust libraries into WebAssembly and
-publishing the resulting package to NPM.
+This was made by following the [tutorial from the rustwasm book](https://rustwasm.github.io/docs/book/game-of-life/introduction.html).
 
 ## 🚴 Usage
 
