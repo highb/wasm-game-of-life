@@ -4,8 +4,5 @@
   "extends": [
     "config:base",
     "group:all"
-  ],
-  "schedule": [
-    "every week"
   ]
 }
